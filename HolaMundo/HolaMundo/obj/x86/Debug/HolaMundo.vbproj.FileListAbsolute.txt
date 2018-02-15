@@ -1,0 +1,22 @@
+C:\Users\cecil\AppData\Local\Temporary Projects\HolaMundo\obj\x86\Debug\HolaMundo.Form1.resources
+C:\Users\cecil\AppData\Local\Temporary Projects\HolaMundo\obj\x86\Debug\HolaMundo.Form2.resources
+C:\Users\cecil\AppData\Local\Temporary Projects\HolaMundo\obj\x86\Debug\HolaMundo.Resources.resources
+C:\Users\cecil\AppData\Local\Temporary Projects\HolaMundo\obj\x86\Debug\HolaMundo.vbproj.GenerateResource.Cache
+C:\Users\cecil\AppData\Local\Temporary Projects\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\cecil\AppData\Local\Temporary Projects\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\cecil\AppData\Local\Temporary Projects\HolaMundo\bin\Debug\HolaMundo.xml
+C:\Users\cecil\AppData\Local\Temporary Projects\HolaMundo\obj\x86\Debug\HolaMundo.exe
+C:\Users\cecil\AppData\Local\Temporary Projects\HolaMundo\obj\x86\Debug\HolaMundo.xml
+C:\Users\cecil\AppData\Local\Temporary Projects\HolaMundo\obj\x86\Debug\HolaMundo.pdb
+C:\Users\cecil\AppData\Local\Temporary Projects\HolaMundo\obj\x86\Debug\HolaMundo.Form3.resources
+C:\Users\cecil\documents\visual studio 2010\Projects\HolaMundo\HolaMundo\obj\x86\Debug\HolaMundo.exe
+C:\Users\cecil\documents\visual studio 2010\Projects\HolaMundo\HolaMundo\obj\x86\Debug\HolaMundo.xml
+C:\Users\cecil\documents\visual studio 2010\Projects\HolaMundo\HolaMundo\obj\x86\Debug\HolaMundo.pdb
+C:\Users\cecil\documents\visual studio 2010\Projects\HolaMundo\HolaMundo\obj\x86\Debug\HolaMundo.Form1.resources
+C:\Users\cecil\documents\visual studio 2010\Projects\HolaMundo\HolaMundo\obj\x86\Debug\HolaMundo.Form2.resources
+C:\Users\cecil\documents\visual studio 2010\Projects\HolaMundo\HolaMundo\obj\x86\Debug\HolaMundo.Form3.resources
+C:\Users\cecil\documents\visual studio 2010\Projects\HolaMundo\HolaMundo\obj\x86\Debug\HolaMundo.Resources.resources
+C:\Users\cecil\documents\visual studio 2010\Projects\HolaMundo\HolaMundo\obj\x86\Debug\HolaMundo.vbproj.GenerateResource.Cache
+C:\Users\cecil\documents\visual studio 2010\Projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\cecil\documents\visual studio 2010\Projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\cecil\documents\visual studio 2010\Projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.xml
